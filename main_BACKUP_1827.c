@@ -3,16 +3,20 @@
 void Uart_sendBute(void)
 {
 	printf("hello from uart");
+
+}
 void Dio_WriteChannel(void)
 {
 	printf("DIO write Channel");
 }
 
+<<<<<<< HEAD
 
 void newcommit();
+=======
 void newcommitonMain(void);
-void secondcommitonMain(void);
 
+>>>>>>> be45cef (commit on main)
 int main(){
 
 	printf("hello\n");
@@ -22,7 +26,4 @@ int main(){
 	
 	return 0 ;
 }
-
-
-void newfeature(void);
 
