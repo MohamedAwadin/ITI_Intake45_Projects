@@ -10,6 +10,11 @@ void Dio_WriteChannel(void)
 
 
 void newcommit();
+{
+	feaw
+	faweuh
+	faweuhfaewohl
+}
 void newcommitonMain(void);
 void secondcommitonMain(void);
 
